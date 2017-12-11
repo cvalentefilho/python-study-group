@@ -1,4 +1,4 @@
-Repositório do grupo de estudos sobre [xxx] do [Training Center](https://training-center.github.io).
+Repositório do grupo de estudos sobre python do [Training Center](https://training-center.github.io).
 
 <p align="center">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
